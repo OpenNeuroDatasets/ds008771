@@ -1,8 +1,0 @@
-1.0.3 2026-09-03
-  - Remove ORCID data
-1.0.2 2026-09-03
-  - Add ORCID data
-1.0.1 2026-09-03
-  - Correct mean age and design description in README
-1.0.0 2026-09-03
-  - Initial release of the Connectome 2.0 NEXI dataset
