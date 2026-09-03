@@ -12,9 +12,12 @@ collected on an ultra-high gradient 3T Siemens MAGNETOM Connectom.X scanner
 
 2. STUDY PARTICIPANTS & DESIGN
 ------------------------------
-- Number of subjects: 7 healthy adults (3 males, mean age: 29.6 ± 3.9 years).
-- Sessions: Each participant underwent two identical scan sessions (scan-rescan) 
-  to evaluate test-retest reproducibility.
+- Number of subjects: 8 healthy adults (mean age: 29.6 ± 3.9 years).
+- Sessions & Design: 
+  - 7 participants underwent two identical scan sessions (scan-rescan) to evaluate 
+    test-retest reproducibility using the standard 2 mm protocol.
+  - 1 participant underwent a single high-resolution session (1.6 mm isotropic) 
+    without a rescan session.
 - Total files: 651 files across 8 subjects and 2 sessions (~18.1 GB).
 
 3. ACQUISITION PROTOCOL (SUMMARY)
