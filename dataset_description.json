@@ -36,5 +36,6 @@
     ],
     "SourceDatasets": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds008771.v1.0.3",
-    "HowToAcknowledge": "If you use these data or reference this dataset, please cite the associated publication \n(Accepted/In Press):\nUhl, Q., Pavan, T., Gerold, J., Chan, K.-S., Jun, Y., Fujita, S., Bhatt, A., \nMa, Y., Wang, Q., Lee, H.-H., Huang, S. Y., Bilgic, B., & Jelescu, I. \n\"Reduced NEXI protocol for the quantification of human gray matter microstructure \non the Connectome 2.0 scanner.\" Imaging Neuroscience (Accepted)."
+    "HowToAcknowledge": "If you use these data or reference this dataset, please cite the associated publication \n(Accepted/In Press):\nUhl, Q., Pavan, T., Gerold, J., Chan, K.-S., Jun, Y., Fujita, S., Bhatt, A., \nMa, Y., Wang, Q., Lee, H.-H., Huang, S. Y., Bilgic, B., & Jelescu, I. \n\"Reduced NEXI protocol for the quantification of human gray matter microstructure \non the Connectome 2.0 scanner.\" Imaging Neuroscience (Accepted).",
+    "ReferencesAndLinks": []
 }
