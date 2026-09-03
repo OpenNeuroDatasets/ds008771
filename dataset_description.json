@@ -2,6 +2,21 @@
   "Name": "Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner",
   "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
+  "Authors": [
+    "Quentin Uhl",
+    "Tommaso Pavan",
+    "Julianna Gerold",
+    "Kwok-Shing Chan",
+    "Yohan Jun",
+    "Shohei Fujita",
+    "Aneri Bhatt",
+    "Yixin Ma",
+    "Qiaochu Wang",
+    "Hong-Hsi Lee",
+    "Susie Y. Huang",
+    "Berkin Bilgic",
+    "Ileana Jelescu"
+  ],
   "Acknowledgements": "We acknowledge the Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, for providing resources and support to conduct this study.",
   "Funding": [
     "Swiss National Science Foundation (SNSF) Eccellenza grant PCEFP2_194260",
