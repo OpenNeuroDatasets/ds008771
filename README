@@ -26,8 +26,8 @@ All data were acquired on a MAGNETOM Connectom.X 3T scanner (500 mT/m gradients,
 600 T/m/s slew rate):
 - Anatomical Reference: High-resolution T1-weighted MPRAGE (0.9 mm isotropic).
 - Diffusion-Weighted Imaging (dMRI): Single-shot spin-echo EPI sequence featuring 
-  an XAI-optimized 8-feature subset (b-values up to 12.5 ms/um², multiple diffusion 
-  times $\Delta$).
+  an XAI-optimized 8-feature subset (b-values up to 12.5 ms/µm², multiple diffusion 
+  times).
 - Reverse phase-encoding b0 volumes were included for susceptibility distortion 
   correction.
 
