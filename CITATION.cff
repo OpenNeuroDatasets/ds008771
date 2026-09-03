@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, pipeline, or protocol, please cite it as below."
 title: "Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner"
+date-released: 2026-09-03
 license: "CC0-1.0"
 authors:
   - family-names: "Uhl"
