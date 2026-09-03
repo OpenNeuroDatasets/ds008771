@@ -2,6 +2,7 @@
   "Name": "Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner",
   "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
+  "License": "CC0",
   "Authors": [
     "Quentin Uhl (ORCID: 0000-0002-9160-4605)",
     "Tommaso Pavan (ORCID: 0000-0002-3436-6882)",
