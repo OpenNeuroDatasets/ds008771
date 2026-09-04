@@ -13,34 +13,34 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
-      - name: Ileana Jelescu
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_1
-          - nameIdentifier: https://orcid.org/0000-0002-3664-0195
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Supervisor
-        order: 2
       - name: Aneri Bhatt
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_2
+        nameIdentifiers: &ref_1
           - nameIdentifier: https://orcid.org/0009-0003-3502-9399
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 2
+      - name: Ileana Jelescu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-3664-0195
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Supervisor
         order: 3
     creators:
       - name: Quentin Uhl
         nameType: Personal
         nameIdentifiers: *ref_0
-      - name: Ileana Jelescu
+      - name: Aneri Bhatt
         nameType: Personal
         nameIdentifiers: *ref_1
-      - name: Aneri Bhatt
+      - name: Ileana Jelescu
         nameType: Personal
         nameIdentifiers: *ref_2
     descriptions:
