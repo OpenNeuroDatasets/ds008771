@@ -33,12 +33,12 @@ All data were acquired on a MAGNETOM Connectom.X 3T scanner (500 mT/m gradients,
 
 4. RELATED PUBLICATION
 ----------------------
-If you use these data or reference this dataset, please cite the associated publication 
-(Accepted/In Press):
+If you use these data or reference this dataset, please cite the associated publication:
 Uhl, Q., Pavan, T., Gerold, J., Chan, K.-S., Jun, Y., Fujita, S., Bhatt, A., 
-Ma, Y., Wang, Q., Lee, H.-H., Huang, S. Y., Bilgic, B., & Jelescu, I. 
+Ma, Y., Wang, Q., Lee, H.-H., Huang, S. Y., Bilgic, B., & Jelescu, I. (2026).
 "Reduced NEXI protocol for the quantification of human gray matter microstructure 
-on the Connectome 2.0 scanner." Imaging Neuroscience (Accepted).
+on the Connectome 2.0 scanner." Imaging Neuroscience. 
+https://doi.org/10.1162/IMAG.a.1380
 
 5. CODE AVAILABILITY
 --------------------
