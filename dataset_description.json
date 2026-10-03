@@ -35,7 +35,7 @@
         }
     ],
     "SourceDatasets": [],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008771.v1.0.3",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008771.v1.0.4",
     "HowToAcknowledge": "If you use these data or reference this dataset, please cite the associated publication: \n\nUhl, Q., Pavan, T., Gerold, J., Chan, K.-S., Jun, Y., Fujita, S., Bhatt, A., Ma, Y., Wang, Q., Lee, H.-H., Huang, S. Y., Bilgic, B., & Jelescu, I. (2026). *Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner.* Imaging Neuroscience. [https://doi.org/10.1162/IMAG.a.1380](https://doi.org/10.1162/IMAG.a.1380)",
     "ReferencesAndLinks": [
         "https://github.com/Mic-map/graymatter_swissknife",
