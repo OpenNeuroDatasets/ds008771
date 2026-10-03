@@ -33,6 +33,16 @@ data:
             schemeUri: https://orcid.org
         contributorType: Supervisor
         order: 3
+      - name: Kwok Shing Chan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_3
+          - nameIdentifier: https://orcid.org/0000-0001-8427-169X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 4
     creators:
       - name: Quentin Uhl
         nameType: Personal
@@ -43,6 +53,9 @@ data:
       - name: Ileana Jelescu
         nameType: Personal
         nameIdentifiers: *ref_2
+      - name: Kwok Shing Chan
+        nameType: Personal
+        nameIdentifiers: *ref_3
     descriptions:
       - description: N/A
         descriptionType: Abstract
